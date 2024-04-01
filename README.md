@@ -1,4 +1,3 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElysian01%2FElysian01&psig=AOvVaw0WZ4cgaqla5LJ4lZX6WinT&ust=1712067034989000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC-v_KYoYUDFQAAAAAdAAAAABAR)
 <h1 align="center">Hi 👋, I'm Deeksha T</h1>
 <h3 align="center">An ardent full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
